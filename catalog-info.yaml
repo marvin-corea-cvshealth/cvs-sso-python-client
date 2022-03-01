@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cvs-sso-python-client
+  description: A python client for CVS SSO.
+  tags: 
+    - python
+    - sso
+    - client
+  annotations:
+    github.com/project-slug: marvin-corea-cvshealth/cvs-sso-python-client
+spec:
+  type: sso
+  lifecycle: dev
+  owner: devsecops
+  system: python
