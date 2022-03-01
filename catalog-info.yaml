@@ -16,8 +16,9 @@ metadata:
       icon: code
   annotations:
     github.com/project-slug: marvin-corea-cvshealth/cvs-sso-python-client
+    backstage.io/techdocs-ref: dir:.
 spec:
-  type: sso
-  lifecycle: dev
+  type: library
+  lifecycle: experimental
   owner: devsecops
-  system: python
+  system: sso
