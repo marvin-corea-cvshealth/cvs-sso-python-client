@@ -7,6 +7,13 @@ metadata:
     - python
     - sso
     - client
+  links:
+    - url: https://github.com/marvin-corea-cvshealth/cvs-sso-python-client
+      title: Github Repo
+      icon: github
+    - url: http://www.google.com
+      title: Admin Panel 
+      icon: code
   annotations:
     github.com/project-slug: marvin-corea-cvshealth/cvs-sso-python-client
 spec:
