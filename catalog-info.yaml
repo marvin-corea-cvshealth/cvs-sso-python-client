@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: cvs-sso-python-client
+  title: CVS SSO Client Client for Python
   description: A python client for CVS SSO.
   tags: 
     - python
